@@ -1,9 +1,0 @@
-<mvc:View controllerName="demoapp1.controller.MainView"
-    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
-    xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
-        <content >
-        Hello World
-        </content>
-    </Page>
-</mvc:View>
