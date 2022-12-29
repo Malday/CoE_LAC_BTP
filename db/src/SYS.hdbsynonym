@@ -1,0 +1,8 @@
+{
+  "COE_LAC_BTP_DB_DUMMY": {
+    "target": {
+      "object": "DUMMY",
+      "schema": "SYS"
+    }
+  }
+}
